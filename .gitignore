@@ -3,3 +3,5 @@ cnx-automation
 
 .DS_Store
 environments/hcl
+environments/belsoft-lab
+ansible.cfg
